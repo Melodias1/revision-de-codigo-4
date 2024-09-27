@@ -33,9 +33,9 @@ public class Codigo {
 	             g = 1;
 	             break;
 	          }
-	          //se agrega bracket faltante
+	          //se agrega bracket faltante, se cambia el tijera por tijeras
 	        case "tijeras":
-	        	//se cambia el . queals por una comparacion con ==
+	        	
 	          if (j2.equals("papel")) {
 	            g = 1;
 	            break;
